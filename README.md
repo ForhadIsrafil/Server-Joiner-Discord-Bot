@@ -1,1 +1,1 @@
-# Server-Joiner-Discord-Bot
+discord tokens to join the server.
